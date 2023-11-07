@@ -17,8 +17,9 @@
 
 ----
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Remyuu&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 <!--
 **Remyuu/Remyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
