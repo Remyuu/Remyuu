@@ -25,10 +25,10 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
 ----
 
 <p align="center">
-  <a href="https://github.com/Remyuu/github-readme-stats">
+  <a href="">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Remyuu&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/Remyuu/convoychat">
+  <a href="">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Remyuu&layout=compact&langs_count=8&card_width=320&theme=radical" />
   </a>
 </p>
@@ -48,8 +48,6 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
     <img src="https://stats.justsong.cn/api/zhihu?username=ycjc-90&theme=dark"  />
   </a>
 </p>
-
-
 
 <!--
 **Remyuu/Remyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
