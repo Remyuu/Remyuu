@@ -10,7 +10,7 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
 
 🌍技术之余，我都热爱旅游，最钟意嘅城市系爱丁堡。✈️
 
-----
+<br>
 
 🌐 Discover more about my work and passions at my personal site [remoooo.com](https://remoooo.com). 
 
@@ -18,11 +18,11 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
 
 📧 Interested in collaborating or chatting about tech? Reach out to me at [remthrose@gmail.com](mailto:remthrose@gmail.com). 
 
+----
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=500&pause=200&center=true&vCenter=true&random=false&width=550&separator=%3D&lines=print(%22Hello%2C+World!%22)%3Decho+%22Hello%2C+World!%22%3Dfun+main()+%7B+println(%22Hello%2C+World!%22)+%7D%3DSystem.Console.WriteLine(%22Hello%2C+World!%22);%3D%3C%3Fphp+echo+%22Hello%2C+World!%22;+%3F%3E" alt="Typing SVG" /></a>
 </p>
-
-----
 
 <p align="center">
   <a href="">
@@ -33,7 +33,6 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
   </a>
 </p>
 
-----
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Remyuu&column=5&theme=onedark" />
