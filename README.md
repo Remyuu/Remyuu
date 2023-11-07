@@ -9,7 +9,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Remyuu&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-![Typing SVG](https://stats.justsong.cn/api/zhihu?username=ycjc-90&raw=true)
+<img src="https://stats.justsong.cn/api/zhihu?username=ycjc-90&theme=light" width="49%" />
+
 
 <!--
 **Remyuu/Remyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
