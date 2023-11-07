@@ -44,7 +44,9 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
 🔍 Also, feel free to check out my Zhihu profile through the social card below for more insights and discussions.
 
 <p align="center">
-  <img src="https://stats.justsong.cn/api/zhihu?username=ycjc-90&theme=dark"  />
+  <a href="https://www.zhihu.com/people/ycjc-90">
+    <img src="https://stats.justsong.cn/api/zhihu?username=ycjc-90&theme=dark"  />
+  </a>
 </p>
 
 
