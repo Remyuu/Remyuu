@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=500&pause=200&center=true&vCenter=true&random=false&width=550&separator=%3D&lines=print(%22Hello%2C+World!%22)%3Decho+%22Hello%2C+World!%22%3Dfun+main()+%7B+println(%22Hello%2C+World!%22)+%7D%3DSystem.Console.WriteLine(%22Hello%2C+World!%22);%3D%3C%3Fphp+echo+%22Hello%2C+World!%22;+%3F%3E)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <a href="https://github.com/Remyuu/github-readme-stats">
@@ -9,11 +11,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Remyuu&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-<img src="https://stats.justsong.cn/api/zhihu?username=ycjc-90&theme=dark"  />
+
 
 
 <!--
 **Remyuu/Remyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://stats.justsong.cn/api/zhihu?username=ycjc-90&theme=dark"  />
 
 Here are some ideas to get you started:
 
