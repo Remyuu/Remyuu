@@ -10,7 +10,7 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
 
 🌍技术之余，我都热爱旅游，最钟意嘅城市系爱丁堡。✈️
 
-<br>
+<img title="" src="https://github.com/Remyuu/Remyuu/assets/64857501/0653fb73-ae2f-4e8c-b6cf-16eed7c451fc" alt="IMG_4788" data-align="center" width="247">
 
 🌐 Discover more about my work and passions at my personal site [remoooo.com](https://remoooo.com). 
 
@@ -32,7 +32,6 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Remyuu&layout=compact&langs_count=8&card_width=320&theme=radical" />
   </a>
 </p>
-
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Remyuu&column=5&theme=onedark" />
