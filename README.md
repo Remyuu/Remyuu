@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Remyuu-github](https://github-readme-stats.vercel.app/api?username=Remyuu-github)](https://github.com/anuraghazra/github-readme-stats)
+[![Remyuu-github](https://github-readme-stats.vercel.app/api?username=Remyuu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
