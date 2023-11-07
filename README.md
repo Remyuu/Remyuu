@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Remyuu&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-<img src="https://stats.justsong.cn/api/zhihu?username=ycjc-90&theme=light" width="49%" />
+<img src="https://stats.justsong.cn/api/zhihu?username=ycjc-90&theme=dark"  />
 
 
 <!--
