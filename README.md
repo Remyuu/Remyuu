@@ -18,7 +18,7 @@
 ----
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Remyuu&column=8&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Remyuu&column=8&theme=onedark" />
 </p>
 
 <!--
