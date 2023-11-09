@@ -23,7 +23,7 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
 ----
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=500&pause=200&center=true&vCenter=true&random=false&width=550&separator=%3D&lines=print(%22Hello%2C+World!%22)%3Decho+%22Hello%2C+World!%22%3Dfun+main()+%7B+println(%22Hello%2C+World!%22)+%7D%3DSystem.Console.WriteLine(%22Hello%2C+World!%22);%3D%3C%3Fphp+echo+%22Hello%2C+World!%22;+%3F%3E" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=500&pause=200&center=true&vCenter=true&random=false&width=550&separator=%3D&lines=print(%22Hello%2C+World!%22)%3Decho+%22Hello%2C+World!%22%3Dfun+main()+%7B+println(%22Hello%2C+World!%22)+%7D%3DSystem.Console.WriteLine(%22Hello%2C+World!%22);%3D%3C%3Fphp+echo+%22Hello%2C+World!%22;+%3F%3E" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
