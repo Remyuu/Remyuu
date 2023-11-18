@@ -4,9 +4,9 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
 
 🛠 Crafting experiences with **C++**, **Python**, **C#**, and **Unity3D**.
 
-🎓 我正专注提升 **C++**、**Python** 同 **C#** 嘅能力。🕹️
+🎓识得一点 **C++**、**Python** 同 **C#** 。🕹️
 
-🏙️我係一個穿梭喺香港同广州嘅编程手艺人，而家正埋头攻读计算机图形学同游戏引擎开发。🏙️
+🏙️香港，而家正埋头攻读计算机图形学同游戏引擎开发。🏙️
 
 🌍技术之余，我都热爱旅游，最钟意嘅城市系爱丁堡。✈️
 
