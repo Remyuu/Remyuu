@@ -1,5 +1,5 @@
-# Hey there! 😄 你好喇！ 👋
-
+# Hey there
+<!--
 Welcome to my digital playground! I’m all about breathing life into stunning visuals through **Computer Graphics** and **Real-Time Rendering**.
 
 🛠 Crafting experiences with **C++**, **Python**, **C#**, and **Unity3D**.
@@ -19,7 +19,7 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
 📚 For in-depth notes and tutorials on my graphics journey, check out [docs.remoooo.com](https://docs.remoooo.com). 
 
 📧 Interested in collaborating or chatting about tech? Reach out to me at [remthrose@gmail.com](mailto:remthrose@gmail.com). 
-
+-->
 ----
 
 <p align="center">
