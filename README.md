@@ -40,7 +40,7 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
 </p>
 
 ----
-
+<!--
 🔍 Also, feel free to check out my Zhihu profile through the social card below for more insights and discussions.
 
 <p align="center">
@@ -49,7 +49,6 @@ Welcome to my digital playground! I’m all about breathing life into stunning v
   </a>
 </p>
 
-<!--
 **Remyuu/Remyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://stats.justsong.cn/api/zhihu?username=ycjc-90&theme=dark"  />
