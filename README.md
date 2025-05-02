@@ -5,4 +5,3 @@
 - e-mail [remthrose@gmail.com](mailto:remthrose@gmail.com). 
 
 - Intersted in CG and Traveling.
-
