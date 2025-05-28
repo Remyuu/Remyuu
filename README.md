@@ -6,4 +6,4 @@
 
 - Intersted in CG and Traveling.
 
-- Live in HongKong & GuangZhou
+- HongKong & GuangZhou & Hiroshima(Aug 2025)
