@@ -6,4 +6,4 @@
 
 - Intersted in CG and Traveling.
 
-- HongKong & GuangZhou & Hiroshima(Aug 2025)
+- HongKong & GuangZhou & Hiroshima
