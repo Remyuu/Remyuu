@@ -1,6 +1,6 @@
 # Hey there
 
-- personal site [remoooo.com](https://remoooo.com). 
+- personal site [https://remoooo.com](https://remoooo.com). 
 
 - e-mail [remthrose at gmail.com](mailto:remthrose@gmail.com). 
 
